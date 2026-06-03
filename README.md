@@ -18,7 +18,7 @@
 
 -----
 
-### `whoami`
+### `whoiam`
 
 ```ts
 const alnrfLO = {
