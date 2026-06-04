@@ -24,7 +24,7 @@
 ### `> whoami`
 
 ```ts
-const rafael = {
+const alnrfLO = {
 name : "Rafael Antunes Oliveira",
 pronouns : "he/him",
 formation : "BUT MMI · Dev Web · IUT Bobigny",
