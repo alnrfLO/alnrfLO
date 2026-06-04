@@ -86,7 +86,7 @@ Node.js / TypeScript · tests unitaires · code reviews · Agile
 | projet | description | stack | statut |
 |---|---|---|---|
 | [**refonte_folio**](https://github.com/alnrfLO/refonte_folio) | Refonte complète de mon portfolio | `JS` | :hammer: en dev |
-| [**Wiki**](https://github.com/alnrfLO/alnrfLO/wiki) | Wiki personnel — notes & docs | — | :pencil: en rédaction |
+| [**Yofukashi-no-uta wiki**](https://github.com/alnrfLO/alnrfLO/yofukashi-no-uta) | Yofukashi-no-uta fan wiki  | `JS`| :hammer: en dev |
 | [**Blackjack**](https://github.com/alnrfLO/Blackjack) | Jeu de Blackjack | `Python` | :arrows_counterclockwise: en amélioration |
 | **Visual Novel** | Jeu vidéo narratif | `Ren'Py` | :bulb: en conception |
 
