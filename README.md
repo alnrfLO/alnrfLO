@@ -78,6 +78,20 @@ Node.js / TypeScript · tests unitaires · code reviews · Agile
 |[**Blackjack**](https://github.com/alnrfLO/Blackjack) |Jeu de Blackjack |`Python`|
 |[**Rendu-tp**](https://github.com/alnrfLO/Rendu-tp) |Travaux pratiques |`HTML` |
 
+
+-----
+
+### `> en cours 🚧`
+
+| projet | description | stack | statut |
+|---|---|---|---|
+| [**refonte_folio**](https://github.com/alnrfLO/refonte_folio) | Refonte complète de mon portfolio | `JS` | :hammer: en dev |
+| [**Wiki**](https://github.com/alnrfLO/alnrfLO/wiki) | Wiki personnel — notes & docs | — | :pencil: en rédaction |
+| [**Blackjack**](https://github.com/alnrfLO/Blackjack) | Jeu de Blackjack | `Python` | :arrows_counterclockwise: en amélioration |
+| **Visual Novel** | Jeu vidéo narratif | `Ren'Py` | :bulb: en conception |
+
+-----
+
 -----
 
 ### `> activity`
