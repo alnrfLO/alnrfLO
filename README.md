@@ -84,7 +84,7 @@ Node.js / TypeScript · tests unitaires · code reviews · Agile
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alnrfLO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true)
+![GitHub Stats]![](https://komarev.com/ghpvc/?username=alnrfLO&color=58a6ff&style=flat-square&label=profile+views)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnrfLO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
