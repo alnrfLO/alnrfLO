@@ -77,7 +77,8 @@ Node.js / TypeScript · tests unitaires · code reviews · Agile
 |[**que-regarder-ce-soir**](https://github.com/alnrfLO/que-regarder-ce-soir) |App de recommandation de films |`JS` |
 |[**Blackjack**](https://github.com/alnrfLO/Blackjack) |Jeu de Blackjack |`Python`|
 |[**Rendu-tp**](https://github.com/alnrfLO/Rendu-tp) |Travaux pratiques |`HTML` |
-| [**Wiki Porto**](https://github.com/alnrfLO/fc_porto_wiki.git) | Porto wiki with API | `Python` | 
+|[**Wiki Porto**](https://github.com/alnrfLO/fc_porto_wiki.git) | Porto wiki with API | `Python` | 
+|[**Poker Game**](https://github.com/alnrfLO/poker.git) | Jeu de poker texas hold'em | `React , css ` | 
 
 
 
@@ -92,7 +93,7 @@ Node.js / TypeScript · tests unitaires · code reviews · Agile
 | [**Blackjack**](https://github.com/alnrfLO/Blackjack) | Jeu de Blackjack | `Python` | :arrows_counterclockwise: en amélioration |
 | **Visual Novel** | Jeu vidéo narratif | `Ren'Py` | :bulb: en conception |
 | [**Wiki Porto**](https://github.com/alnrfLO/fc_porto_wiki.git) | Porto wiki | `Python` | :arrows_counterclockwise: en amélioration |
-
+|[**Poker Game**](https://github.com/alnrfLO/poker.git) | Jeu de poker texas hold'em | `React , css ` |:arrows_counterclockwise: en amélioration
 
 -----
 
