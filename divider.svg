@@ -1,0 +1,11 @@
+<svg width="660" height="24" viewBox="0 0 660 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#61DAFB" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="12" x2="660" y2="12" stroke="url(#lineFade)" stroke-width="1.5"/>
+  <rect x="322" y="4" width="16" height="16" fill="#0b0f19" stroke="#61DAFB" stroke-width="1.5" transform="rotate(45 330 12)"/>
+</svg>
