@@ -1,71 +1,45 @@
 <div align="center">
 
-```
-██████╗   █████╗  ███████╗
-██╔══██╗ ██╔══██╗ ██╔════╝
-██████╔╝ ███████║ █████╗
-██╔══██╗ ██╔══██║ ██╔══╝
-██║  ██║ ██║  ██║ ██║
-╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:1a2332,100:61DAFB&height=220&section=header&text=RAF&fontSize=90&fontColor=61DAFB&fontAlignY=38&animation=fadeIn&desc=Web%20%26%20Backend%20Developer&descAlignY=58&descSize=20&descColor=8892b0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=460&lines=%24+whoami;RAF+%E2%80%94+Web+%26+Backend+Developer;Assistant+Software+Engineer+%40+Herm%C3%A8s;Toujours+en+train+d'apprendre...;chaos_mode+%3E+status%3A+building" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=BOOT+SEQUENCE+INITIATED...;LOADING+PLAYER+DATA...;CLASS%3A+FULL-STACK+DEVELOPER;GUILD%3A+HERM%C3%88S+DIGITAL;%3E+ACCESS+GRANTED" alt="boot sequence"/>
 
 </div>
 
 <br/>
 
-```bash
-raf@dev:~$ cat about_me.txt
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🧙 Character Sheet
+
+```yaml
+name:        RAF
+class:       Full-Stack Developer
+guild:       Hermès Digital — Vente & Services
+role:        Assistant Software Engineer
+main_quest:  BUT MMI — Dév Web (Sorbonne Paris Nord)
+faction:     FC Porto
+side_quests: gaming, anime/manga
+status:      [ONLINE] toujours en train de learn/build
 ```
 
-- 🎓 Étudiant en 2ème année **BUT MMI** (Métiers du Multimédia et de l'Internet), parcours Développement Web — IUT de Bobigny, Université Sorbonne Paris Nord
-- 💼 **Assistant Software Engineer** en alternance/stage chez **Hermès** (Hermès Digital, Vente et Services) — Paris
-- 🛠️ Je bosse avec **NestJS**, **TypeScript** et **Node.js** au quotidien
-- 🌱 En train d'élargir ma stack vers **Python**, **React** et le backend TS avancé
-- 🎮 Fan de gaming & anime/manga — et supporter du **FC Porto**
-- 📍 Basé en France
-
-<br/>
-
-```bash
-raf@dev:~$ ls ./projects --tree
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 Portfolio — `rafatns.vercel.app`**
-Refonte complète en Vite + React + Tailwind + Framer Motion. Identité visuelle bleu nuit/cyan, rose bleue SVG animée signature, multilingue (FR/EN/PT/ES), thème clair/sombre, carrousels de projets.
-
-`React` `Vite` `Tailwind` `Framer Motion`
-
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-**⚔️ chaos_mode**
-Mon premier mod Minecraft avec **Fabric**, et ma première fois en Java. Items custom, ToolMaterial dédié, pipeline d'assets, direction : un bloc CHAOS_CORE.
+### 🎒 Inventaire équipé
 
-`Java` `Fabric` `Minecraft Modding`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🃏 Blackjack Terminal → Web**
-Jeu de Blackjack né en Python terminal, porté sous Flask avec une esthétique "hacker terminal" sombre et un système de mises.
-
-`Python` `Flask`
-
-</td>
-<td width="50%" valign="top">
-
-**📖 Visual Novel (Ren'Py)**
-Projet perso de visual novel — menu principal et système de dialogue codés à la main.
-
-`Ren'Py` `Python`
+![TypeScript](https://img.shields.io/badge/-TypeScript-0b0f19?style=flat-square&logo=typescript&logoColor=3178C6)
+![NestJS](https://img.shields.io/badge/-NestJS-0b0f19?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/-Node.js-0b0f19?style=flat-square&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-0b0f19?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/-Python-0b0f19?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-0b0f19?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0b0f19?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vercel](https://img.shields.io/badge/-Vercel-0b0f19?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
@@ -73,44 +47,84 @@ Projet perso de visual novel — menu principal et système de dialogue codés �
 
 <br/>
 
-```bash
-raf@dev:~$ neofetch --stack
+### 📊 Skill Tree
+
+```text
+TypeScript / NestJS   ████████████████░░░░  80%
+React / Frontend      ██████████████░░░░░░  70%
+Python                ███████████░░░░░░░░░  55%
+Java (Fabric modding) ████████░░░░░░░░░░░░  40%  ← en cours de leveling
 ```
+
+<br/>
+
+### 📜 Quest Log
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 [Portfolio] — `rafatns.vercel.app`**
+`STATUS: ACTIVE — MAINTAINED`
+Refonte complète Vite + React + Tailwind + Framer Motion. Rose bleue SVG animée, identité bleu nuit/cyan, multilingue FR/EN/PT/ES, dark/light mode, carrousels de projets.
+
+</td>
+<td width="50%" valign="top">
+
+**⚔️ [chaos_mode] — Minecraft Mod**
+`STATUS: IN PROGRESS`
+Premier mod Fabric, première fois en Java. Items custom, ToolMaterial dédié, pipeline d'assets. Boss final : débloquer le bloc `CHAOS_CORE`.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🃏 [Blackjack] — Terminal → Web**
+`STATUS: COMPLETED`
+Né en Python terminal, porté sous Flask avec esthétique hacker terminal sombre et système de mises.
+
+</td>
+<td width="50%" valign="top">
+
+**📖 [Visual Novel] — Ren'Py**
+`STATUS: IN PROGRESS`
+Menu principal et système de dialogue codés à la main, sans template.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🐍 Contribution Snake
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://raw.githubusercontent.com/alnrfLO/alnrfLO/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
+
+</div>
+
+<sub>⚠️ Ce snake s'anime automatiquement une fois le workflow `snake.yml` actif sur ton repo (fichier fourni séparément, à copier dans `.github/workflows/`).</sub>
+
+<br/>
+
+### 🏆 Achievements & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alnrfLO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0b0f19&title_color=61DAFB&icon_color=61DAFB" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alnrfLO&theme=tokyonight&hide_border=true&background=0b0f19&ring=61DAFB&fire=61DAFB" width="48%" alt="GitHub Streak"/>
+
+<img src="https://github-readme-trophies.vercel.app/?username=alnrfLO&theme=tokyonight&no-frame=true&margin-w=8&column=7" width="100%" alt="trophies"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnrfLO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=61DAFB" width="50%" alt="Top Langs"/>
 
 </div>
 
 <br/>
 
-```bash
-raf@dev:~$ curl -s api.github.com/stats/alnrfLO
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alnrfLO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alnrfLO&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnrfLO&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
-
-</div>
-
-<br/>
-
-```bash
-raf@dev:~$ cat contact.json
-```
+### 📡 Guild Hall — Contact
 
 <div align="center">
 
@@ -120,13 +134,12 @@ raf@dev:~$ cat contact.json
 
 </div>
 
+<br/>
+
 <div align="center">
-<sub>
 
-```
-> process exited with code 0
-> connexion terminée — merci de votre passage
-```
+<img src="https://komarev.com/ghpvc/?username=alnrfLO&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" alt="profile views"/>
 
-</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1a2332,100:0b0f19&height=120&section=footer" width="100%"/>
