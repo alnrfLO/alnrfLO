@@ -8,10 +8,11 @@
 
 <div align="center">
 
-### 🎯 Recherche alternance — Développeur Full-Stack
-**Disponible à partir de septembre 2026**
+<img src="./cta-glow.svg" width="80%" alt=""/>
 
-[![CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-61DAFB?style=for-the-badge&logoColor=0b0f19&color=61DAFB&labelColor=0b0f19)](https://rafatns.vercel.app/assets/CV_Rafael_Antunes_oliveira.pdf)
+<br/><br/>
+
+[![CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-61DAFB?style=for-the-badge&logoColor=0b0f19&color=61DAFB&labelColor=0b0f19)](./CV_Rafael_Antunes_oliveira.pdf)
 [![Email](https://img.shields.io/badge/Me_contacter-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafael.atns.dev@gmail.com)
 
 </div>
@@ -30,7 +31,7 @@ Développeur full-stack en devenir, je construis régulièrement des projets per
 
 - 💼 Développement backend chez **Hermès** — NestJS, TypeScript, migration de schémas de validation vers Zod
 - ⚔️ Construction de **chaos_mode**, mon premier mod Minecraft — première fois en Java
-
+- 📚 Progression sur mes certifications CS50 / freeCodeCamp
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
@@ -43,7 +44,7 @@ Développement de fonctionnalités backend en Node.js / TypeScript · maintenanc
 
 ### 💪 Avant le code
 
-Animateur sportif (Ville de Bobigny) et manœuvre bâtiment — deux expériences terrain qui m'ont appris la rigueur, le travail en autonomie et la gestion d'équipe. Le détail est sur mon [CV](./CV_Rafael_Antunes_Oliveira.pdf).
+Animateur sportif (Ville de Bobigny) et manœuvre bâtiment — deux expériences terrain qui m'ont appris la rigueur, le travail en autonomie et la gestion d'équipe. Le détail est sur mon [CV](./CV_Rafael_Antunes_oliveira.pdf).
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
@@ -53,11 +54,15 @@ Animateur sportif (Ville de Bobigny) et manœuvre bâtiment — deux expérience
 <tr>
 <td width="50%" valign="top">
 
+<img src="./icon-portfolio.svg" width="40" height="40"/>
+
 **🌐 Portfolio — `rafatns.vercel.app`**
 Vite + React + Tailwind + Framer Motion. Identité bleu nuit/cyan, rose bleue SVG animée, multilingue FR/EN/PT/ES, dark/light mode.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./icon-poker.svg" width="40" height="40"/>
 
 **🃏 Poker Texas Hold'em — multijoueur temps réel**
 React / Firebase / Tailwind. Phases de jeu complètes, salles avec ID partageable, évaluation auto des mains, chat intégré, sync Firebase Realtime Database.
@@ -68,12 +73,16 @@ React / Firebase / Tailwind. Phases de jeu complètes, salles avec ID partageabl
 <tr>
 <td width="50%" valign="top">
 
+<img src="./icon-yofukashi.svg" width="40" height="40"/>
+
 **🌙 Yofukashi no Uta — wiki interactif**
 React / TypeScript / Vite, pour apprendre TypeScript en conditions réelles. Wiki non-officiel de l'anime *Call of the Night*, animation d'étoiles en Canvas API, navigation multi-pages.
 [repo](https://github.com/alnrfLO/yofukashi-no-uta)
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./icon-chaos.svg" width="40" height="40"/>
 
 **⚔️ chaos_mode — mod Minecraft**
 Java / Fabric, premier projet en Java. Items custom, ToolMaterial dédié, pipeline d'assets, objectif : bloc `CHAOS_CORE`.
@@ -88,20 +97,7 @@ Java / Fabric, premier projet en Java. Items custom, ToolMaterial dédié, pipel
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0b0f19?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0b0f19?style=flat-square&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/-HTML5-0b0f19?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-0b0f19?style=flat-square&logo=css3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/-Python-0b0f19?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/-Java-0b0f19?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![PHP](https://img.shields.io/badge/-PHP-0b0f19?style=flat-square&logo=php&logoColor=777BB4)
-![C++](https://img.shields.io/badge/-C%2B%2B-0b0f19?style=flat-square&logo=cplusplus&logoColor=00599C)
-![NestJS](https://img.shields.io/badge/-NestJS-0b0f19?style=flat-square&logo=nestjs&logoColor=E0234E)
-![React](https://img.shields.io/badge/-React-0b0f19?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-0b0f19?style=flat-square&logo=node.js&logoColor=339933)
-![MySQL](https://img.shields.io/badge/-MySQL-0b0f19?style=flat-square&logo=mysql&logoColor=4479A1)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0b0f19?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Firebase](https://img.shields.io/badge/-Firebase-0b0f19?style=flat-square&logo=firebase&logoColor=FFCA28)
+<img src="./skills-badges.svg" width="100%" alt="compétences"/>
 
 </div>
 
@@ -115,13 +111,13 @@ Java / Fabric, premier projet en Java. Items custom, ToolMaterial dédié, pipel
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
-### 🌍 Langues
+<div align="center">
 
-Français (natif) · Anglais C1 · Espagnol C1 · Portugais C2 · Japonais A1 · Italien A1
+<img src="./stats-card.svg" width="100%" alt="stats github"/>
 
-### 🎯 Centres d'intérêt
+</div>
 
-⚽ Football (FC Porto) · 🥋 Karaté (instructeur fédéral DIF) · ✈️ Voyager · 📖 Lecture · 🍳 Cuisiner · 🎮 Gaming & anime
+<sub>📌 Snapshot pris le 28 juillet 2026 — dis-moi quand tu veux que je régénère avec des chiffres à jour.</sub>
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
@@ -147,7 +143,7 @@ Français (natif) · Anglais C1 · Espagnol C1 · Portugais C2 · Japonais A1 ·
 
 </div>
 
-
+<sub>⚠️ S'anime une fois le workflow `snake.yml` actif dans `.github/workflows/` de ton repo (fourni séparément) — génère automatiquement l'image chaque nuit à partir de ton propre historique GitHub, donc pas de dépendance à un service tiers.</sub>
 
 <br/>
 

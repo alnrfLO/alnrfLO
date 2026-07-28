@@ -1,0 +1,13 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="spadeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#c8f2ff"/>
+      <stop offset="100%" stop-color="#39D1FF"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(28,30)">
+    <animateTransform attributeName="transform" type="rotate" values="-6;6;-6" dur="2.4s" begin="0s" repeatCount="indefinite" additive="sum"/>
+    <path d="M0,-18 C10,-8 16,0 8,8 C4,11 1,9 0,5 C-1,9 -4,11 -8,8 C-16,0 -10,-8 0,-18 Z" fill="url(#spadeGrad)"/>
+    <path d="M0,5 L-3,16 L3,16 Z" fill="url(#spadeGrad)"/>
+  </g>
+</svg>

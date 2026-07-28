@@ -1,0 +1,32 @@
+<svg width="700" height="110" viewBox="0 0 700 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#101a2c"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- halo pulsant derriere la carte -->
+  <rect x="10" y="10" width="680" height="90" rx="18" fill="none" stroke="#61DAFB" stroke-width="2" opacity="0.35" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.15;0.55;0.15" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="4" y="4" width="692" height="102" rx="16" fill="url(#bg)" stroke="#1f2d40" stroke-width="1"/>
+
+  <!-- indicateur disponible -->
+  <circle cx="38" cy="55" r="5" fill="#39D1FF"/>
+  <circle cx="38" cy="55" r="5" fill="none" stroke="#39D1FF" stroke-width="1.5">
+    <animate attributeName="r" values="5;16;5" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="60" y="45" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">🎯 Recherche alternance — Développeur Full-Stack</text>
+  <text x="60" y="72" fill="#61DAFB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.5">DISPONIBLE À PARTIR DE SEPTEMBRE 2026</text>
+</svg>

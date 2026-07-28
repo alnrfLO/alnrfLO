@@ -1,0 +1,24 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pA" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0b2a43"/>
+      <stop offset="100%" stop-color="#1c4b73"/>
+    </linearGradient>
+    <linearGradient id="pB" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#1c4b73"/>
+      <stop offset="100%" stop-color="#61DAFB"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(28,28)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <polygon points="0,0 -5,-13 0,-24 5,-13" fill="url(#pA)" transform="rotate(0)"/>
+      <polygon points="0,0 -5,-13 0,-24 5,-13" fill="url(#pB)" transform="rotate(60)"/>
+      <polygon points="0,0 -5,-13 0,-24 5,-13" fill="url(#pA)" transform="rotate(120)"/>
+      <polygon points="0,0 -5,-13 0,-24 5,-13" fill="url(#pB)" transform="rotate(180)"/>
+      <polygon points="0,0 -5,-13 0,-24 5,-13" fill="url(#pA)" transform="rotate(240)"/>
+      <polygon points="0,0 -5,-13 0,-24 5,-13" fill="url(#pB)" transform="rotate(300)"/>
+    </g>
+    <circle cx="0" cy="0" r="5" fill="#c8f2ff"/>
+  </g>
+</svg>

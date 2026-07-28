@@ -1,0 +1,17 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="chaosGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#0b2a43"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(28,28)">
+    <polygon points="0,-20 16,0 0,20 -16,0" fill="url(#chaosGrad)" stroke="#c8f2ff" stroke-width="1">
+      <animateTransform attributeName="transform" type="scale" values="1;1.08;1" dur="1.8s" repeatCount="indefinite" additive="sum"/>
+    </polygon>
+    <polygon points="0,-9 7,0 0,9 -7,0" fill="#0b0f19" opacity="0.55"/>
+    <circle cx="10" cy="-12" r="1.6" fill="#ff8a5c">
+      <animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
