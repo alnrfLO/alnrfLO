@@ -115,3 +115,24 @@ Français (natif) · Anglais C1 · Espagnol C1 · Portugais C2 · Japonais A1 ·
 
 </div>
 
+<br/>
+
+<div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
+
+### 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alnrfLO/alnrfLO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+</div>
+
+<sub>⚠️ S'anime une fois le workflow `snake.yml` actif dans `.github/workflows/` de ton repo (fourni séparément) — génère automatiquement l'image chaque nuit à partir de ton propre historique GitHub, donc pas de dépendance à un service tiers.</sub>
+
+<br/>
+
+<div align="center">
+
+<img src="./footer-banner.svg" width="100%" alt=""/>
+
+</div>
