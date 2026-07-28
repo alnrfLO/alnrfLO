@@ -1,100 +1,156 @@
-<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(15,15)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="15,25" to="15,15" dur="0.45s" begin="0.0s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#F7DF1E"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">JavaScript</text>
+<svg width="900" height="491" viewBox="0 0 900 491" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradA" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b2a43"/>
+      <stop offset="100%" stop-color="#1c4b73"/>
+    </linearGradient>
+    <linearGradient id="gradB" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1c4b73"/>
+      <stop offset="100%" stop-color="#61DAFB"/>
+    </linearGradient>
+    <linearGradient id="gradC" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#c8f2ff"/>
+    </linearGradient>
+  </defs>
+  <text x="15" y="31" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Langages</text>
+  <g transform="translate(15,49)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.0s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.0s" fill="freeze" additive="sum"/>
+    <rect width="176" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">JS</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">JavaScript</text>
   </g>
-  <g transform="translate(235,15)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.07s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="235,25" to="235,15" dur="0.45s" begin="0.07s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#3178C6"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">TypeScript</text>
+  <g transform="translate(203,49)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.06s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.06s" fill="freeze" additive="sum"/>
+    <rect width="176" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">TS</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">TypeScript</text>
   </g>
-  <g transform="translate(455,15)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.14s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="455,25" to="455,15" dur="0.45s" begin="0.14s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#E34F26"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">HTML5</text>
+  <g transform="translate(391,49)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.12s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.12s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">PY</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Python</text>
   </g>
-  <g transform="translate(675,15)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.21s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="675,25" to="675,15" dur="0.45s" begin="0.21s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#1572B6"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">CSS3</text>
+  <g transform="translate(553,49)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.18s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.18s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">JV</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Java</text>
   </g>
-  <g transform="translate(15,73)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.28s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="15,83" to="15,73" dur="0.45s" begin="0.28s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#3776AB"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Python</text>
+  <g transform="translate(715,49)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.24s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.24s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="800" text-anchor="middle">PHP</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">PHP</text>
   </g>
-  <g transform="translate(235,73)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.35s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="235,83" to="235,73" dur="0.45s" begin="0.35s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#ED8B00"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Java</text>
+  <g transform="translate(15,109)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.3s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.3s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">C</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">C</text>
   </g>
-  <g transform="translate(455,73)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.42s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="455,83" to="455,73" dur="0.45s" begin="0.42s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#777BB4"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">PHP</text>
+  <g transform="translate(177,109)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.36s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.36s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="800" text-anchor="middle">C++</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">C++</text>
   </g>
-  <g transform="translate(675,73)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.49s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="675,83" to="675,73" dur="0.45s" begin="0.49s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#00599C"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">C++</text>
+  <g transform="translate(339,109)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.42s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.42s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradA)"/>
+    <text x="23" y="28.0" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">C#</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">C#</text>
   </g>
-  <g transform="translate(15,131)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.56s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="15,141" to="15,131" dur="0.45s" begin="0.56s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#E0234E"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">NestJS</text>
+  <text x="15" y="195" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Frontend</text>
+  <g transform="translate(15,213)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.48s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.48s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradB)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="800" text-anchor="middle">HTML</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">HTML5</text>
   </g>
-  <g transform="translate(235,131)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.63s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="235,141" to="235,131" dur="0.45s" begin="0.63s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#61DAFB"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">React</text>
+  <g transform="translate(177,213)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.54s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.54s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradB)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="800" text-anchor="middle">CSS</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">CSS3</text>
   </g>
-  <g transform="translate(455,131)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.7s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="455,141" to="455,131" dur="0.45s" begin="0.7s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#339933"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Node.js</text>
+  <g transform="translate(339,213)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.6s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradB)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">⚛</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">React</text>
   </g>
-  <g transform="translate(675,131)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.77s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="675,141" to="675,131" dur="0.45s" begin="0.77s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#4479A1"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">MySQL</text>
+  <g transform="translate(501,213)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.66s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.66s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradB)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">NG</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Angular</text>
   </g>
-  <g transform="translate(15,189)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.84s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="15,199" to="15,189" dur="0.45s" begin="0.84s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#06B6D4"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Tailwind</text>
+  <g transform="translate(663,213)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.72s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.72s" fill="freeze" additive="sum"/>
+    <rect width="194" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradB)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">TW</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Tailwind CSS</text>
   </g>
-  <g transform="translate(235,189)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.91s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="235,199" to="235,189" dur="0.45s" begin="0.91s" fill="freeze" additive="sum"/>
-    <rect width="210" height="46" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-    <rect x="0" y="0" width="5" height="46" rx="2.5" fill="#FFCA28"/>
-    <text x="20" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Firebase</text>
+  <text x="15" y="299" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Backend</text>
+  <g transform="translate(15,317)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.78s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.78s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradC)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">ND</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Node.js</text>
+  </g>
+  <g transform="translate(177,317)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.84s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.84s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradC)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">NJ</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">NestJS</text>
+  </g>
+  <text x="15" y="403" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Bases de données & Outils</text>
+  <g transform="translate(15,421)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.9s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.9s" fill="freeze" additive="sum"/>
+    <rect width="150" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradC)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="800" text-anchor="middle">SQL</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">MySQL</text>
+  </g>
+  <g transform="translate(177,421)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.96s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.96s" fill="freeze" additive="sum"/>
+    <rect width="158" height="46" rx="10" fill="#0b0f19" stroke="#1f2d40" stroke-width="1"/>
+    <rect x="6" y="6" width="34" height="34" rx="8" fill="url(#gradC)"/>
+    <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">FB</text>
+    <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Firebase</text>
   </g>
 </svg>
