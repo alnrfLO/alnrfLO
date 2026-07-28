@@ -44,7 +44,7 @@ Développement de fonctionnalités backend en Node.js / TypeScript · maintenanc
 
 ### 💪 Avant le code
 
-Animateur sportif (Ville de Bobigny) et manœuvre bâtiment — deux expériences terrain qui m'ont appris la rigueur, le travail en autonomie et la gestion d'équipe. Le détail est sur mon [CV](./CV_Rafael_Antunes_oliveira.pdf).
+Animateur sportif (Ville de Bobigny) et manœuvre bâtiment — deux expériences terrain qui m'ont appris la rigueur, le travail en autonomie et la gestion d'équipe. Le détail est sur mon [CV](https://rafatns.vercel.app/assets/CV_Rafael_Antunes_oliveira.pdf).
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
@@ -117,7 +117,6 @@ Java / Fabric, premier projet en Java. Items custom, ToolMaterial dédié, pipel
 
 </div>
 
-<sub>📌 Snapshot pris le 28 juillet 2026 — dis-moi quand tu veux que je régénère avec des chiffres à jour.</sub>
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
