@@ -6,6 +6,18 @@
 
 <br/>
 
+<div align="center">
+
+### 🎯 Recherche alternance — Développeur Full-Stack
+**Disponible à partir de septembre 2026**
+
+[![CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-61DAFB?style=for-the-badge&logoColor=0b0f19&color=61DAFB&labelColor=0b0f19)](./CV_Rafael_Antunes_Oliveira.pdf)
+[![Email](https://img.shields.io/badge/Me_contacter-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafael.atns.dev@gmail.com)
+
+</div>
+
+<br/>
+
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
 ### Profil
@@ -14,16 +26,24 @@ Développeur full-stack en devenir, je construis régulièrement des projets per
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
-### 💼 Expériences professionnelles
+### 🎯 En ce moment
+
+- 💼 Développement backend chez **Hermès** — NestJS, TypeScript, migration de schémas de validation vers Zod
+- ⚔️ Construction de **chaos_mode**, mon premier mod Minecraft — première fois en Java
+- 📚 Progression sur mes certifications CS50 / freeCodeCamp
+
+<div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
+
+### 💼 Expérience professionnelle
 
 **Stagiaire Assistant Software Engineer — Hermès, Paris** `avr. 2026 – aujourd'hui`
 Développement de fonctionnalités backend en Node.js / TypeScript · maintenance, refactoring et optimisation d'applications existantes · mise en place de tests unitaires, fonctionnels et d'intégration · participation aux code reviews et aux rituels Agile.
 
-**Animateur sportif — Ville de Bobigny** `juil. 2024 – août 2024`
-Animation d'activités sportives pour enfants et adultes (Bobigny Plage – JO) · encadrement de groupes · organisation logistique et gestion du matériel.
+<div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
-**Manœuvre bâtiment (finition intérieure) — Indépendant, Drancy** `janv. 2023 – janv. 2024`
-Peinture et pose de cloisons placo · préparation des surfaces et finitions · travail en autonomie sur chantier.
+### 💪 Avant le code
+
+Animateur sportif (Ville de Bobigny) et manœuvre bâtiment — deux expériences terrain qui m'ont appris la rigueur, le travail en autonomie et la gestion d'équipe. Le détail est sur mon [CV](./CV_Rafael_Antunes_Oliveira.pdf).
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
@@ -126,6 +146,7 @@ Français (natif) · Anglais C1 · Espagnol C1 · Portugais C2 · Japonais A1 ·
 <img src="https://raw.githubusercontent.com/alnrfLO/alnrfLO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
 </div>
+
 
 
 <br/>
