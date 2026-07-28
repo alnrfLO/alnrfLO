@@ -11,7 +11,7 @@
 ### 🎯 Recherche alternance — Développeur Full-Stack
 **Disponible à partir de septembre 2026**
 
-[![CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-61DAFB?style=for-the-badge&logoColor=0b0f19&color=61DAFB&labelColor=0b0f19)](./CV_Rafael_Antunes_oliveira.pdf)
+[![CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-61DAFB?style=for-the-badge&logoColor=0b0f19&color=61DAFB&labelColor=0b0f19)](https://rafatns.vercel.app/assets/CV_Rafael_Antunes_oliveira.pdf)
 [![Email](https://img.shields.io/badge/Me_contacter-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafael.atns.dev@gmail.com)
 
 </div>
