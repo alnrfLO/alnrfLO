@@ -127,7 +127,6 @@ Français (natif) · Anglais C1 · Espagnol C1 · Portugais C2 · Japonais A1 ·
 
 </div>
 
-<sub>⚠️ S'anime une fois le workflow `snake.yml` actif dans `.github/workflows/` de ton repo (fourni séparément) — génère automatiquement l'image chaque nuit à partir de ton propre historique GitHub, donc pas de dépendance à un service tiers.</sub>
 
 <br/>
 
