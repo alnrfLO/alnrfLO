@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-61DAFB?style=for-the-badge&logoColor=0b0f19&color=61DAFB&labelColor=0b0f19)](./CV_Rafael_Antunes_oliveira.pdf)
+[![CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-61DAFB?style=for-the-badge&logoColor=0b0f19&color=61DAFB&labelColor=0b0f19)](https://rafatns.vercel.app/assets/CV_Rafael_Antunes_oliveira.pdf)
 [![Email](https://img.shields.io/badge/Me_contacter-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafael.atns.dev@gmail.com)
 
 </div>
@@ -143,7 +143,7 @@ Java / Fabric, premier projet en Java. Items custom, ToolMaterial dédié, pipel
 
 </div>
 
-<sub>⚠️ S'anime une fois le workflow `snake.yml` actif dans `.github/workflows/` de ton repo (fourni séparément) — génère automatiquement l'image chaque nuit à partir de ton propre historique GitHub, donc pas de dépendance à un service tiers.</sub>
+
 
 <br/>
 
