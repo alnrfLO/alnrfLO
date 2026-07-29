@@ -136,7 +136,7 @@
     <text x="23" y="28.0" fill="#0b0f19" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">NJ</text>
     <text x="52" y="28.0" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">NestJS</text>
   </g>
-  <text x="15" y="403" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Bases de données & Outils</text>
+  <text x="15" y="403" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">Bases de données &amp; Outils</text>
   <g transform="translate(15,421)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.9s" fill="freeze"/>
     <animateTransform attributeName="transform" type="scale" from="0.85" to="1" dur="0.4s" begin="0.9s" fill="freeze" additive="sum"/>
