@@ -31,7 +31,7 @@ Développeur full-stack en devenir, je construis régulièrement des projets per
 
 - 💼 Développement backend chez **Hermès** — NestJS, TypeScript, migration de schémas de validation vers Zod
 - ⚔️ Construction de **chaos_mode**, mon premier mod Minecraft — première fois en Java
-- 📚 Progression sur mes certifications CS50 / freeCodeCamp
+
 
 <div align="center"><img src="./divider.svg" width="55%" alt=""/></div>
 
