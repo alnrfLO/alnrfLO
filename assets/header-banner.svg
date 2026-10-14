@@ -172,7 +172,7 @@
       <tspan fill="#61DAFB">$</tspan> whoami
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.2083;0.2292;1" dur="12s" repeatCount="indefinite"/>
     </text>
-    <text x="60" y="205" opacity="0">Hermès · IUT Bobigny (BUT MMI)
+    <text x="60" y="205" opacity="0">ex-Hermès · BUT MMI 3 · IUT de Bobigny
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2292;0.25;0.4583;0.4792;1" dur="12s" repeatCount="indefinite"/>
     </text>
     <text x="60" y="205" opacity="0">rafatns.vercel.app · github.com/alnrfLO

@@ -1,0 +1,44 @@
+<svg width="450" height="196" viewBox="0 0 450 196" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="mathdle_bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0b0f19"/><stop offset="100%" stop-color="#101a2c"/></linearGradient>
+<linearGradient id="mathdle_top" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#61DAFB" stop-opacity="0"/><stop offset="50%" stop-color="#61DAFB" stop-opacity="0.8"/><stop offset="100%" stop-color="#61DAFB" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="448" height="194" rx="16" fill="url(#mathdle_bg)" stroke="#1f2d40"/>
+<line x1="40" y1="1.5" x2="410" y2="1.5" stroke="url(#mathdle_top)" stroke-width="1.5"/>
+<svg x="20" y="20" width="46" height="46" viewBox="0 0 56 56">
+  <defs>
+    <linearGradient id="mathdle_mOk" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#1c8fb8"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="22" height="22" rx="5" fill="url(#mathdle_mOk)"/>
+  <rect x="30" y="4" width="22" height="22" rx="5" fill="#1c4b73"/>
+  <rect x="4" y="30" width="22" height="22" rx="5" fill="#1c4b73"/>
+  <rect x="30" y="30" width="22" height="22" rx="5" fill="#0b2a43" stroke="#61DAFB" stroke-width="1.2">
+    <animate attributeName="fill" values="#0b2a43;#61DAFB;#61DAFB;#0b2a43" keyTimes="0;0.15;0.75;1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="14" text-anchor="middle">
+    <text x="15" y="20" fill="#0b0f19">7</text>
+    <text x="41" y="20" fill="#c8f2ff">+</text>
+    <text x="15" y="46" fill="#c8f2ff">5</text>
+    <text x="41" y="46" fill="#c8f2ff">=</text>
+  </g>
+</svg>
+<text x="80" y="40" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Mathdle</text>
+<text x="80" y="60" fill="#61DAFB" font-family="Fira Code, Consolas, monospace" font-size="11.5" opacity="0.9">mathdlee.vercel.app</text>
+<rect x="378.2" y="22" width="51.8" height="20" rx="10" fill="#0b2a43" stroke="#39D1FF" stroke-opacity="0.5"/>
+<circle cx="389.2" cy="32" r="3" fill="#39D1FF"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="397.2" y="35.5" fill="#39D1FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">LIVE</text>
+<text x="22" y="96" fill="#9aa7b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Jeu de déduction façon Wordle / Nerdle autour des maths et des</text>
+<text x="22" y="115" fill="#9aa7b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">sciences : énigme du jour, mode série, système de vies,</text>
+<text x="22" y="134" fill="#9aa7b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">équations chimiques vérifiées par comptage d'atomes.</text>
+<rect x="22.0" y="157" width="48.2" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
+<text x="46.1" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">React</text>
+<rect x="78.2" y="157" width="76.1" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
+<text x="116.3" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">TypeScript</text>
+<rect x="162.3" y="157" width="39.2" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
+<text x="181.9" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Vite</text>
+<rect x="209.5" y="157" width="51.8" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
+<text x="235.4" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Vercel</text>
+</svg>

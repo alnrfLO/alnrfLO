@@ -1,0 +1,20 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mOk" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#1c8fb8"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="22" height="22" rx="5" fill="url(#mOk)"/>
+  <rect x="30" y="4" width="22" height="22" rx="5" fill="#1c4b73"/>
+  <rect x="4" y="30" width="22" height="22" rx="5" fill="#1c4b73"/>
+  <rect x="30" y="30" width="22" height="22" rx="5" fill="#0b2a43" stroke="#61DAFB" stroke-width="1.2">
+    <animate attributeName="fill" values="#0b2a43;#61DAFB;#61DAFB;#0b2a43" keyTimes="0;0.15;0.75;1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="14" text-anchor="middle">
+    <text x="15" y="20" fill="#0b0f19">7</text>
+    <text x="41" y="20" fill="#c8f2ff">+</text>
+    <text x="15" y="46" fill="#c8f2ff">5</text>
+    <text x="41" y="46" fill="#c8f2ff">=</text>
+  </g>
+</svg>
