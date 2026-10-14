@@ -44,16 +44,52 @@ async function fetchData() {
     };
   }
   const token = process.env.GITHUB_TOKEN;
-  if (!token) throw new Error("GITHUB_TOKEN manquant");
-  const res = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: { Authorization: `bearer ${token}`, "Content-Type": "application/json", "User-Agent": LOGIN },
-    body: JSON.stringify({ query: QUERY, variables: { login: LOGIN } }),
-  });
-  const json = await res.json();
-  if (!res.ok || json.errors) throw new Error(JSON.stringify(json.errors || json));
-  return json.data.user;
+  const headers = { Accept: "application/vnd.github+json", "User-Agent": LOGIN };
+  if (token) headers.Authorization = `Bearer ${token}`;
+
+  // 1) GraphQL : tout en une requête (contributions comprises)
+  try {
+    const res = await fetch("https://api.github.com/graphql", {
+      method: "POST",
+      headers: { ...headers, "Content-Type": "application/json" },
+      body: JSON.stringify({ query: QUERY, variables: { login: LOGIN } }),
+    });
+    const json = await res.json();
+    if (!res.ok || json.errors) throw new Error(JSON.stringify(json.errors || json).slice(0, 300));
+    return json.data.user;
+  } catch (e) {
+    console.warn("GraphQL indisponible, repli sur l'API REST :", e.message);
+  }
+
+  // 2) Repli REST : repos, stars et langages (sans les contributions)
+  const get = async (url) => {
+    const r = await fetch(`https://api.github.com${url}`, { headers });
+    if (!r.ok) throw new Error(`${url} -> ${r.status} ${await r.text()}`);
+    return r.json();
+  };
+  const user = await get(`/users/${LOGIN}`);
+  const list = (await get(`/users/${LOGIN}/repos?type=owner&per_page=100`)).filter((r) => !r.fork && !r.private);
+  const nodes = [];
+  for (const r of list) {
+    const langs = await get(`/repos/${LOGIN}/${r.name}/languages`);
+    nodes.push({
+      stargazerCount: r.stargazers_count,
+      languages: { edges: Object.entries(langs).map(([name, size]) => ({ size, node: { name, color: COLORS[name] } })) },
+    });
+  }
+  return {
+    createdAt: user.created_at,
+    repositories: { totalCount: list.length, nodes },
+    contributionsCollection: null,
+  };
 }
+
+// Couleurs GitHub des langages les plus courants (utilisées par le repli REST)
+const COLORS = {
+  JavaScript: "#f1e05a", TypeScript: "#3178c6", Python: "#3572A5", Java: "#b07219", PHP: "#4F5D95",
+  HTML: "#e34c26", CSS: "#663399", Luau: "#00A2FF", Lua: "#000080", "C++": "#f34b7d", C: "#555555",
+  "C#": "#178600", GDScript: "#355570", Shell: "#89e051", Batchfile: "#C1F12E", SCSS: "#c6538c",
+};
 
 function render(u) {
   const repos = u.repositories.nodes;
@@ -71,10 +107,11 @@ function render(u) {
   const total = [...langs.values()].reduce((n, l) => n + l.size, 0) || 1;
   const top = [...langs.entries()].sort((a, b) => b[1].size - a[1].size).slice(0, 6);
 
+  const c = u.contributionsCollection;
   const tiles = [
     [u.repositories.totalCount, "Repos publics"],
-    [u.contributionsCollection.contributionCalendar.totalContributions, "Contributions (1 an)"],
-    [u.contributionsCollection.totalCommitContributions, "Commits (1 an)"],
+    c ? [c.contributionCalendar.totalContributions, "Contributions (1 an)"] : [top.length, "Langages utilisés"],
+    c ? [c.totalCommitContributions, "Commits (1 an)"] : [months, "Mois sur GitHub"],
     [stars, "Stars"],
   ];
 
