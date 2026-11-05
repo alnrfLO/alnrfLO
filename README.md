@@ -59,7 +59,7 @@ Développeur full-stack en **3ᵉ année de BUT MMI** (parcours Développement W
 <a href="https://poker-murex-seven.vercel.app"><img src="./assets/cards/poker.svg" width="49%" alt="Poker Texas Hold'em"/></a>
 <a href="https://fc-porto-wiki.vercel.app"><img src="./assets/cards/porto.svg" width="49%" alt="Wiki FC Porto"/></a>
 <a href="https://github.com/alnrfLO/chaos_mode"><img src="./assets/cards/chaos.svg" width="49%" alt="chaos_mode"/></a>
-<a href="https://github.com/alnrfLO/yofukashi-no-uta"><img src="./assets/cards/yofukashi.svg" width="49%" alt="Yofukashi no Uta"/></a>
+<a href="https://yofukashi-wiki.vercel.app"><img src="./assets/cards/yofukashi.svg" width="49%" alt="Yofukashi no Uta"/></a>
 <a href="https://github.com/alnrfLO/SAE303"><img src="./assets/cards/sae303.svg" width="49%" alt="SAÉ 303 · Baromètre climat"/></a>
 
 <sub>Code source : [mathdle](https://github.com/alnrfLO/mathdle) · [Portfolio](https://github.com/alnrfLO/Portfolio) · [poker](https://github.com/alnrfLO/poker) · [fc_porto_wiki](https://github.com/alnrfLO/fc_porto_wiki) · [chaos_mode](https://github.com/alnrfLO/chaos_mode) · [yofukashi-no-uta](https://github.com/alnrfLO/yofukashi-no-uta) · [SAE303](https://github.com/alnrfLO/SAE303)</sub>

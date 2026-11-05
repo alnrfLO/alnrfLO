@@ -31,16 +31,17 @@
   </circle>
 </svg>
 <text x="80" y="40" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Yofukashi no Uta</text>
-<text x="80" y="60" fill="#61DAFB" font-family="Fira Code, Consolas, monospace" font-size="11.5" opacity="0.9">wiki non officiel · Call of the Night</text>
-<rect x="376.8" y="22" width="53.2" height="20" rx="10" fill="#132235" stroke="#c8f2ff" stroke-opacity="0.5"/>
-<text x="386.8" y="35.5" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">PERSO</text>
+<text x="80" y="60" fill="#61DAFB" font-family="Fira Code, Consolas, monospace" font-size="11.5" opacity="0.9">yofukashi-wiki.vercel.app</text>
+<rect x="378.3" y="22" width="51.7" height="20" rx="10" fill="#0b2a43" stroke="#39D1FF" stroke-opacity="0.5"/>
+<circle cx="389.3" cy="32" r="3" fill="#39D1FF"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="397.3" y="35.5" fill="#39D1FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.8">LIVE</text>
 <text x="22" y="96" fill="#9aa7b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Fait pour apprendre TypeScript en conditions réelles : fiches</text>
 <text x="22" y="115" fill="#9aa7b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">personnages, ciel étoilé animé en Canvas, navigation</text>
 <text x="22" y="134" fill="#9aa7b4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">multi-pages avec React Router.</text>
-<rect x="22.0" y="157" width="48.2" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
+<rect x="22.0" y="157" width="48.3" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
 <text x="46.1" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">React</text>
-<rect x="78.2" y="157" width="76.1" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
-<text x="116.3" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">TypeScript</text>
-<rect x="162.3" y="157" width="78.6" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
-<text x="201.6" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Canvas API</text>
+<rect x="78.3" y="157" width="76.7" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
+<text x="116.6" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">TypeScript</text>
+<rect x="162.9" y="157" width="78.9" height="22" rx="6" fill="#0f1c2e" stroke="#1f2d40"/>
+<text x="202.4" y="172" fill="#c8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Canvas API</text>
 </svg>

@@ -104,7 +104,7 @@ PROJECTS = [
     },
     {
         "slug": "yofukashi", "icon": "yofukashi", "title": "Yofukashi no Uta",
-        "sub": "wiki non officiel · Call of the Night", "pill": "PERSO",
+        "sub": "yofukashi-wiki.vercel.app", "pill": "LIVE",
         "desc": "Fait pour apprendre TypeScript en conditions réelles : fiches personnages, "
                 "ciel étoilé animé en Canvas, navigation multi-pages avec React Router.",
         "tags": ["React", "TypeScript", "Canvas API"],
