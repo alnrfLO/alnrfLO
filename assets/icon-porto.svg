@@ -1,0 +1,20 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ballGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c8f2ff"/>
+      <stop offset="100%" stop-color="#61DAFB"/>
+    </linearGradient>
+  </defs>
+  <circle cx="28" cy="28" r="20" fill="#0b2a43" stroke="url(#ballGrad)" stroke-width="2"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 28 28" to="360 28 28" dur="12s" repeatCount="indefinite"/>
+    <polygon points="28,20 35.6,25.5 32.7,34.5 23.3,34.5 20.4,25.5" fill="url(#ballGrad)"/>
+    <g stroke="#61DAFB" stroke-width="1.6" stroke-linecap="round" opacity="0.8">
+      <line x1="28" y1="20" x2="28" y2="9"/>
+      <line x1="35.6" y1="25.5" x2="46.1" y2="22.1"/>
+      <line x1="32.7" y1="34.5" x2="39.2" y2="43.4"/>
+      <line x1="23.3" y1="34.5" x2="16.8" y2="43.4"/>
+      <line x1="20.4" y1="25.5" x2="9.9" y2="22.1"/>
+    </g>
+  </g>
+</svg>

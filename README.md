@@ -29,7 +29,7 @@ Développeur full-stack en **3ᵉ année de BUT MMI** (parcours Développement W
 
 ### 🎯 En ce moment
 
-- 🧮 **Mathdle** : j'ajoute un mode Programmation (Java, C++, Python, JS) au jeu
+- ⚽ **Wiki FC Porto** : matchs, classements et score en direct, en site et en app Windows / Linux
 - 🎮 **Un jeu Roblox** gacha × tower defense, avec un combat au tour par tour inspiré de Honkai: Star Rail (Luau + Rojo)
 - ⚔️ **chaos_mode** : la suite de mon mod Minecraft en Java
 - 📨 Des candidatures pour une **alternance** en développement web
@@ -57,11 +57,12 @@ Développeur full-stack en **3ᵉ année de BUT MMI** (parcours Développement W
 <a href="https://mathdlee.vercel.app"><img src="./assets/cards/mathdle.svg" width="49%" alt="Mathdle"/></a>
 <a href="https://rafatns.vercel.app"><img src="./assets/cards/portfolio.svg" width="49%" alt="Portfolio"/></a>
 <a href="https://poker-murex-seven.vercel.app"><img src="./assets/cards/poker.svg" width="49%" alt="Poker Texas Hold'em"/></a>
+<a href="https://fc-porto-wiki.vercel.app"><img src="./assets/cards/porto.svg" width="49%" alt="Wiki FC Porto"/></a>
 <a href="https://github.com/alnrfLO/chaos_mode"><img src="./assets/cards/chaos.svg" width="49%" alt="chaos_mode"/></a>
 <a href="https://github.com/alnrfLO/yofukashi-no-uta"><img src="./assets/cards/yofukashi.svg" width="49%" alt="Yofukashi no Uta"/></a>
 <a href="https://github.com/alnrfLO/SAE303"><img src="./assets/cards/sae303.svg" width="49%" alt="SAÉ 303 · Baromètre climat"/></a>
 
-<sub>Code source : [mathdle](https://github.com/alnrfLO/mathdle) · [Portfolio](https://github.com/alnrfLO/Portfolio) · [poker](https://github.com/alnrfLO/poker) · [chaos_mode](https://github.com/alnrfLO/chaos_mode) · [yofukashi-no-uta](https://github.com/alnrfLO/yofukashi-no-uta) · [SAE303](https://github.com/alnrfLO/SAE303)</sub>
+<sub>Code source : [mathdle](https://github.com/alnrfLO/mathdle) · [Portfolio](https://github.com/alnrfLO/Portfolio) · [poker](https://github.com/alnrfLO/poker) · [fc_porto_wiki](https://github.com/alnrfLO/fc_porto_wiki) · [chaos_mode](https://github.com/alnrfLO/chaos_mode) · [yofukashi-no-uta](https://github.com/alnrfLO/yofukashi-no-uta) · [SAE303](https://github.com/alnrfLO/SAE303)</sub>
 
 </div>
 
@@ -74,7 +75,7 @@ Développeur full-stack en **3ᵉ année de BUT MMI** (parcours Développement W
 |---|---|---|
 | 🎮 [Codex du Voyageur](https://github.com/alnrfLO/alnrflo-dashboard) | Dashboard gaming perso : LoL, Valorant, TFT, Genshin, Star Rail, Wuthering Waves | HTML · CSS · JS · Three.js |
 | 🎬 [Que regarder ce soir ?](https://github.com/alnrfLO/que-regarder-ce-soir) | Trouver un film via l'API TMDB : filtres, mode aléatoire, suggestions par humeur · [démo](https://que-regarder-ce-soir.vercel.app) | JavaScript · API TMDB |
-| 🦸 [MCU Watchlist](https://github.com/alnrfLO/mcu-watchlist) | Suivre son visionnage du MCU avant *Avengers: Doomsday*, sans compte ni backend | React · Vite |
+| 🦸 [MCU Watchlist](https://github.com/alnrfLO/mcu-watchlist) | Suivre son visionnage du MCU avant *Avengers: Doomsday*, sans compte ni backend · [démo](https://mcu-watchlist-nu.vercel.app) | React · Vite |
 | 🏫 [SAÉ 401](https://github.com/alnrfLO/SAE401) | Plateforme web en MVC : spots, profils, commentaires, messagerie, agenda | PHP · MySQL |
 | 🃏 [Blackjack](https://github.com/alnrfLO/Blackjack) | Du terminal à une app web Flask, avec système de mises | Python · Flask |
 | 🕹️ Mini-jeux | [Pong](https://github.com/alnrfLO/pong) · [Snake](https://github.com/alnrfLO/snake) · [Tetris](https://github.com/alnrfLO/tetris) · [Morpion](https://github.com/alnrfLO/tictactoe) | Python · Pygame · Tkinter |

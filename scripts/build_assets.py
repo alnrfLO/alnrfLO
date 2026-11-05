@@ -70,8 +70,8 @@ PROJECTS = [
     {
         "slug": "mathdle", "icon": "mathdle", "title": "Mathdle",
         "sub": "mathdlee.vercel.app", "pill": "LIVE",
-        "desc": "Jeu de déduction façon Wordle / Nerdle autour des maths et des sciences : énigme du jour, "
-                "mode série, système de vies, équations chimiques vérifiées par comptage d'atomes.",
+        "desc": "Jeu de déduction façon Wordle / Nerdle : maths, sciences et programmation "
+                "(Java, C++, Python, JS), énigme du jour, mode série et système de vies.",
         "tags": ["React", "TypeScript", "Vite", "Vercel"],
     },
     {
@@ -87,6 +87,13 @@ PROJECTS = [
         "desc": "Multijoueur en temps réel : salles avec ID partageable, toutes les phases de jeu, "
                 "évaluation automatique des mains et chat intégré.",
         "tags": ["React", "Firebase", "Tailwind"],
+    },
+    {
+        "slug": "porto", "icon": "porto", "title": "Wiki FC Porto",
+        "sub": "fc-porto-wiki.vercel.app", "pill": "LIVE",
+        "desc": "Matchs, classements, effectif et palmarès toujours à jour : API FastAPI avec cache, "
+                "score en direct pendant les matchs et app Windows / Linux.",
+        "tags": ["Python", "FastAPI", "JavaScript", "Electron"],
     },
     {
         "slug": "chaos", "icon": "chaos", "title": "chaos_mode",
